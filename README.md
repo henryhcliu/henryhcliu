@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @NEU-rse
-- 👀 I’m interested in Machine Learning, Python Programming, Robotics and CV.
-- 🌱 I’m currently learning Robotics, Advanced Motion Control and Reinforcement Learning.
-- 💞️ I’m looking to collaborate on Robotics perception and trajectory tracking control based on ROS(or MATLAB) and KUKA LBR iiwa robot.
+- 👋 Hi, I’m @Haichao/Henry Liu, a Master's student majoring in Robotics at HIT.
+- 👀 I’m interested in Machine Learning, Python Programming, Robot System Design and Control, and CV.
+- 🌱 I’m currently learning Robot Path Planning, Advanced Motion Control and Reinforcement Learning.
+- 💞️ I’m looking to more collaborate on Robotic perception and trajectory tracking control based on ROS(or MATLAB) and KUKA LBR iiwa robot.
 - 📫 How to reach me: hcliu@hit.edu.cn (before July 2021) haichao-liu@outlook.com (long term)
 
 <!---
