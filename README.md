@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Haichao/Henry Liu, a Master's student majoring in Robotics at HIT.
-- 👀 I’m interested in Machine Learning, Python C/C++ Programming, Robot System Design and Control, and CV.
-- 🌱 I’m currently learning Robot Path Planning, Advanced Motion Control and Reinforcement Learning.
-- 💞️ I’m looking to more collaborate on intelligent robotic perception and trajectory tracking control based on ROS(or MATLAB) and KUKA LBR iiwa robot.
-- 📫 How to reach me: hcliu@hit.edu.cn (before July 2022) haichao-liu@outlook.com (long term)
+- 👋 Hi, I’m @Haichao/Henry Liu, a PhD student majoring in Robotics at HKUST.
+- 👀 I’m interested in Autonomous Driving, Machine Learning, Python C/C++ Programming, Robot System Design and Control, and Computer Vision.
+- 🌱 I’m currently working on decision-making and motion control for safe urban autonomous driving with optimization methods and safe learning robotics techniques.
+- 💞️ I’m looking to more collaborate on decentralized optimization methods for connected intelligent vehicles with V2X communication.
+- 📫 How to reach me: haichao.liu@connect.ust.hk, haichao-liu@outlook.com (long term)
 
 <!---
-NEU-rse/NEU-rse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+henryhcliu/henryhcliu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
