@@ -2,7 +2,7 @@
 - 👀 I’m interested in Autonomous Driving, Machine Learning, Python C/C++ Programming, Robot System Design and Control, and Computer Vision.
 - 🌱 I’m currently working on decision-making and motion control for safe urban autonomous driving with optimization methods and safe learning robotics techniques.
 - 💞️ I’m looking to more collaborate on decentralized optimization methods for connected intelligent vehicles with V2X communication.
-- 📫 How to reach me: haichao.liu@connect.ust.hk, haichao-liu@outlook.com (long term)
+- 📫 How to reach me: haichao.liu@connect.ust.hk
 
 <!---
 henryhcliu/henryhcliu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
