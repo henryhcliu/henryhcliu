@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Haichao/Henry Liu, a PhD student majoring in Robotics at HKUST.
-- 👀 I’m interested in Autonomous Driving, Machine Learning, Python C/C++ Programming, Robot System Design and Control, and Computer Vision.
-- 🌱 I’m currently working on decision-making and motion control for safe urban autonomous driving with optimization methods and safe learning robotics techniques.
-- 💞️ I’m looking to more collaborate on decentralized optimization methods for connected intelligent vehicles with V2X communication.
-- 📫 How to reach me: haichao.liu@connect.ust.hk
+- 👋 Hi, I’m @Haichao/Henry Liu, a Postdoctoral Research Fellow in the PINE Lab at Nanyang Technological University (NTU), Singapore.
+- 👀 I’m interested in Robotics and Embodied AI.
+- 🌱 I’m currently working on dexterous robotic manipulation with open-vocabulary commands, as well as VLM-enhanced decision-making, planning, and control.
+- 🚀 I am co-organizing the 2nd Robotic Collaborative Assembly (RoCo) Challenge @ IROS 2026! 
+- 💞️ I’m always open to discussions and potential collaborations on Robotic Foundation Models (LMMs/VLAs), imitation/reinforcement learning, and optimization methods for robotics.
+- 🏠 Homepage: https://henryhcliu.github.io/
+- 📫 How to reach me: haichao.liu@ntu.edu.sg
 
 <!---
 henryhcliu/henryhcliu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
